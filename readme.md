@@ -12,7 +12,7 @@
  This is testing parser.
 
 ## How To Use 
-###config/parser.php
+### config/parser.php
 
 Firstly, you can set the settings you need in the configuration file `config/parser.php`.
 
@@ -48,7 +48,7 @@ The link will also be an attribute of the stored item.
     'item-photo'    => '.selector-example img'
 ```
 
-###Console use
+### Console Use
 To activate parser, you need to call it via the command line ...
 ```
 php artisan parse
